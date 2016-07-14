@@ -8,6 +8,8 @@ Let's say that you're promoting a local meetup in Vancouver. If you organize the
 
 If you want people in Vancouver to know about your meetup, you can now target the Tweet to peple in Canada :maple_leaf: even if's not a sponsored Tweet as part of some campaign. Here's how...
 
+![Geo-targeted organic tweet to Canada](http://i.imgur.com/N73KnwE.png)
+
 
 #### Pre-work
 
@@ -41,6 +43,8 @@ Change the message / locations in `goat.rb` as appropriate.
 #### Tweeting
 
 Simply run `ruby goat.rb` to broadcast your message.
+
+
 
 Your message now appears on your timeline, and is only viewable to people in that country.
 
