@@ -50,6 +50,6 @@ Your message now appears on your timeline, and is only viewable to people in tha
 
 ##### Disclaimer
 
-This is a barebones [POC](https://en.wikipedia.org/wiki/Proof_of_concept) for a [PHB](https://en.wikipedia.org/wiki/Pointy-haired_Boss). Supporting command line args, or having a web wrapper would be great, but I'm banking on the Twitter gem supporting this and/or Twitter or it's partners making accessing these features easier (and free) in the not-too-distant-future.
+This is a barebones [POC](https://en.wikipedia.org/wiki/Proof_of_concept) for a [PHB](https://en.wikipedia.org/wiki/Pointy-haired_Boss). Supporting command line args, or having a web wrapper would be great, but I'm banking on the [Twitter gem](https://github.com/sferik/twitter) supporting this and/or Twitter or it's partners making accessing these features easier (and free) in the not-too-distant-future.
 
  :goat:
