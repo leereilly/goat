@@ -8,7 +8,7 @@ Let's say that you're promoting a local meetup in Vancouver. If you organize the
 
 If you want people in Vancouver to know about your meetup, you can now target the Tweet to peple in Canada :maple_leaf: even if's not a sponsored Tweet as part of some campaign. Here's how...
 
-![Geo-targeted organic tweet to Canada](http://i.imgur.com/rbO5gVW.png)
+![Geo-targeted organic tweet to Canada](http://i.imgur.com/kKiUF23.png)
 
 #### Pre-work
 
