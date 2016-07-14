@@ -11,7 +11,7 @@ ACCESS_TOKEN    = ENV['ACCESS_TOKEN']
 ACCESS_SECRET   = ENV['ACCESS_SECRET']
 
 # What are you tweeting?
-message  = "GitHub Meetup in Vancouver this Friday!"
+message  = "GitHub Meetup in Vancouver this Friday! https://github.com/blog/1142-vancouver-meetup"
 
 # Which country do want this tweet to be seen in? Example below is the ID for
 # Canada.
